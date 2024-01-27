@@ -40,33 +40,19 @@
 
 ```csharp
 public class ExampleClass
-
 {
-
     public void ExampleMethod()
-	
     {
-	
         if (condition)
-		
         {
-		
             statement1;
-			
             statement2;
-			
         }
-		
         else
-		
         {
-		
             alternativeStatement1;
-			
             alternativeStatement2;
-			
         }
-		
     }
-	
-}```
+}
+```
